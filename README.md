@@ -11,7 +11,7 @@ Hi I'm Caden and I'm studying EECS at UC Berkeley. I love building web applicati
 ![](https://github-readme-stats.vercel.app/api?username=cadelew&theme=great-gatsby&hide_border=false&include_all_commits=true&count_private=false)<br/>
 ![](https://nirzak-streak-stats.vercel.app/?user=cadelew&theme=great-gatsby&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=cadelew&theme=great-gatsby&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
-
+![Caden's GitHub Repository Contribution stats](https://github-contributor-stats.vercel.app/api?username=cadelew&hide=B,B%2B&hide_contributor_rank=false&limit=5&theme=great_gatsby)
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=light)
 

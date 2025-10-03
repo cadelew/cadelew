@@ -5,7 +5,6 @@
 
 ### 🌐 Socials
 
-[![Instagram](https://img.shields.io/badge/Instagram-D7285D?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/cade.lew_)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/caden-lewis)
 [![Email](https://img.shields.io/badge/Email-FFD700?style=for-the-badge&logo=gmail&logoColor=black)](mailto:cadenlewis@berkeley.edu)
 
@@ -24,8 +23,8 @@
 ### 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=cadelew&theme=great-gatsby&hide_border=false" height="150"/>
-  <img src="https://nirzak-streak-stats.vercel.app/?user=cadelew&theme=great-gatsby&hide_border=false" height="150"/>
+<img src="https://github-readme-stats.vercel.app/api?username=cadelew&theme=great-gatsby&hide_border=false&hide_rank=true" height="150"/>
+<img src="https://nirzak-streak-stats.vercel.app/?user=cadelew&theme=great-gatsby&hide_border=false" height="150"/>
 </p>
 
 ---

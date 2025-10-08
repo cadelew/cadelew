@@ -30,7 +30,3 @@
 </p>
 
 ---
-
-<p align="center">
-  <img src="https://visitcount.itsvg.in/api?id=cadelew&icon=0&color=2" />
-</p>

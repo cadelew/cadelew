@@ -7,6 +7,8 @@
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/caden-lewis)
 [![Email](https://img.shields.io/badge/Email-FFD700?style=for-the-badge&logo=gmail&logoColor=black)](mailto:cadenlewis@berkeley.edu)
+[![Website](https://img.shields.io/badge/Website-000000?style=for-the-badge&logo=githubpages&logoColor=white)](https://cadelew.github.io/personal-website/)
+
 
 ---
 

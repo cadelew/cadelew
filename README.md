@@ -1,5 +1,5 @@
 <h1 align="center">Caden Lewis</h1>
-<p align="center">EECS @ UC Berkeley | SWE Intern @ Equity Decision Systems 
+<p align="center">EECS @ UC Berkeley | SWE Intern @ Equity Decision Systems | Co-Founder @ Summis
 
 ---
 
